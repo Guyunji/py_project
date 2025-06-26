@@ -10,3 +10,5 @@ __pycache__/
 *.xlsx
 *.log
 *.txt
+
+tensor_proj/.env
